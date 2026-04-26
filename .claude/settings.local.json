@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(mkdir -p C:/Users/PC/Desktop/AV/averagejoes/public/images)",
+      "Bash(cp \"C:/Users/PC/Desktop/AV/ΦΩΤΟ/Average Joe's Gym Logo.png\" \"C:/Users/PC/Desktop/AV/averagejoes/public/images/logo.png\")",
+      "Bash(cp \"C:/Users/PC/Desktop/AV/ΦΩΤΟ/Screenshot_20260426_001825_Instagram.jpg\" \"C:/Users/PC/Desktop/AV/averagejoes/public/images/hero-group.jpg\")",
+      "Bash(cp \"C:/Users/PC/Desktop/AV/ΦΩΤΟ/Screenshot_20260426_002050_Instagram.jpg\" \"C:/Users/PC/Desktop/AV/averagejoes/public/images/group-session.jpg\")",
+      "Bash(cp \"C:/Users/PC/Desktop/AV/ΦΩΤΟ/Screenshot_20260426_002239_Instagram.jpg\" \"C:/Users/PC/Desktop/AV/averagejoes/public/images/group-training.jpg\")",
+      "Bash(npm run *)"
+    ]
+  }
+}
